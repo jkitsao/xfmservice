@@ -117,7 +117,7 @@ app.get('/playing', function (req, res) {
     return res.json({ playing: false })
 });
 
-const port = process.env.PORT || 8080
+const port = process.env.PORT || 5000
 app.listen(port, () => {
     startStreaming()
     fillWithItems(Utils.readSongs());
