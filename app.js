@@ -1,4 +1,4 @@
-const Fs = require('fs');
+// const Fs = require('fs');
 const express = require('express')
 // import got from 'got';
 const https = require('https');
@@ -34,13 +34,14 @@ const broadcastToEverySink = (chunk) => {
 }
 
 const getBitRate = (song) => {
-    try {
-        const bitRate = ffprobeSync(Path.join(process.cwd(), song)).format.bit_rate;
-        return parseInt(bitRate);
-    }
-    catch (err) {
-        return 320000; // reasonable default
-    }
+    // try {
+    //     const bitRate = ffprobeSync(Path.join(process.cwd(), song)).format.bit_rate;
+    //     return parseInt(bitRate);
+    // }
+    // catch (err) {
+    //     return 320000; 
+    // }
+    return 320000;
 }
 
 const makeResponseSink = () => {
@@ -54,25 +55,25 @@ const removeResponseSink = (id) => {
     sinks.delete(id);
 }
 
-const fillWithItems = (items) => {
-    for (const item of items) {
-        songs.push(item);
-    }
-    // this.focus();
-}
+// const fillWithItems = (items) => {
+//     for (const item of items) {
+//         songs.push(item);
+//     }
 
-const removeFromSongs = (index) => {
+// }
 
-    return songs.splice(index, 1);
-}
+// const removeFromSongs = (index) => {
 
-const removeFromQueue = ({ fromTop } = {}) => {
+//     return songs.splice(index, 1);
+// }
 
-    const index = 0
+// const removeFromQueue = ({ fromTop } = {}) => {
 
-    const [song] = removeFromSongs(index);
-    return song;
-}
+//     const index = 0
+
+//     const [song] = removeFromSongs(index);
+//     return song;
+// }
 const playLoop = () => {
     // console.log({ songs })
     let currentSong = Utils.randomNoRepeats(data)
@@ -117,11 +118,10 @@ app.get('/playing', function (req, res) {
     return res.json({ playing: false })
 });
 
-const port = process.env.PORT || 5000
+const port = process.env.PORT || 8080
 app.listen(port, () => {
     startStreaming()
-    fillWithItems(Utils.readSongs());
-
+    // fillWithItems(Utils.readSongs());
     // console.log({ db })
     console.log(`up and running on port ${port}`)
 })
