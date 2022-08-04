@@ -1,0 +1,22 @@
+{
+  "name": "xonline-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dropb/ffprobe": "^2.0.1",
+    "airtable": "^0.11.4",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "got": "^12.3.0",
+    "nodemon": "^2.0.19",
+    "throttle": "^1.0.3"
+  }
+}
