@@ -92,6 +92,10 @@ const playLoop = () => {
 const startStreaming = () => {
     playLoop();
 }
+//
+app.get('/', (req, res) => {
+    res.send('up and running')
+})
 
 //streaming route
 app.get('/listen', function (req, res) {
