@@ -41,7 +41,7 @@ const getBitRate = (song) => {
     // catch (err) {
     //     return 320000; 
     // }
-    return 320000;
+    return 128000;
 }
 
 const makeResponseSink = () => {
@@ -54,26 +54,6 @@ const makeResponseSink = () => {
 const removeResponseSink = (id) => {
     sinks.delete(id);
 }
-
-// const fillWithItems = (items) => {
-//     for (const item of items) {
-//         songs.push(item);
-//     }
-
-// }
-
-// const removeFromSongs = (index) => {
-
-//     return songs.splice(index, 1);
-// }
-
-// const removeFromQueue = ({ fromTop } = {}) => {
-
-//     const index = 0
-
-//     const [song] = removeFromSongs(index);
-//     return song;
-// }
 const playLoop = () => {
     // console.log({ songs })
     let currentSong = Utils.randomNoRepeats(data)
