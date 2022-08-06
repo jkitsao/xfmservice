@@ -1,6 +1,6 @@
 // const Fs = require('fs');
 // const { extname } = require('path');
-
+var _ = require('underscore');
 // const _readDir = () => Fs.readdirSync('./playlist', { withFileTypes: true });
 // const _isMp3 = item => item.isFile && extname(item.name) === '.mp3';
 
@@ -13,7 +13,8 @@
 exports.generateRandomId = () => Math.random().toString(36).slice(2);
 
 exports.randomNoRepeats = (array) => {
-    var copy = array.slice(0);
+    let newArray = _.shuffle(array)
+    var copy = newArray.slice(0);
     // return function () {
     if (copy.length < 1) { copy = array.slice(0); }
     var index = Math.floor(Math.random() * copy.length);
