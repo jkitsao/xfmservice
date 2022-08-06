@@ -146,5 +146,197 @@ exports.catalogue = [
     {
         name: 'AWOLNATION Woman Woman',
         src: 'https://d1o6crvybdgm1i.cloudfront.net/AWOLNATION++Woman+Woman.mp3'
+    },
+    {
+        name: '3 Doors Down  Here Without You',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/3+Doors+Down++Here+Without+You.mp3'
+    },
+    {
+        name: 'Adam Lambert  Ghost Town',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Adam+Lambert++Ghost+Town.mp3'
+    },
+    {
+        name: 'Alien Ant Farm  Smooth Criminal',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Alien+Ant+Farm++Smooth+Criminal.mp3'
+    },
+    {
+        name: 'American Authors  Best Day Of My Life',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/American+Authors++Best+Day+Of+My+Life.mp3'
+    },
+    {
+        name: 'Avril Lavigne  Complicated',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Avril+Lavigne++Complicated.mp3'
+    },
+    {
+        name: 'Avril Lavigne  What The Hell Official',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Avril+Lavigne++What+The+Hell+Official.mp3'
+    },
+    {
+        name: 'Axwell Λ Ingrosso  More Than You Know',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Axwell+%CE%9B+Ingrosso++More+Than+You+Know.mp3'
+    },
+    {
+        name: 'blink182  Adams Song',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/blink182++Adams+Song.mp3'
+    },
+    {
+        name: 'BØRNS  Electric Love Official',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/B%C3%98RNS++Electric+Love+Official.mp3'
+    },
+    {
+        name: 'Calvin Harris  I Need Your Love  ft Ellie Goulding',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Calvin+Harris++I+Need+Your+Love++ft+Ellie+Goulding.mp3'
+    },
+    {
+        name: 'Calvin Harris feat Florence Welch  Sweet Nothing.mp3',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Calvin+Harris+feat+Florence+Welch++Sweet+Nothing.mp3.webm'
+    },
+    {
+        name: 'Carly Rae Jepsen  I Really Like You',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Carly+Rae+Jepsen++I+Really+Like+You.mp3'
+    },
+    {
+        name: 'Coldplay  Fix You',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Coldplay++Fix+You.mp3'
+    },
+    {
+        name: 'Demi Lovato  Heart Attack',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Demi+Lovato++Heart+Attack.mp3'
+    },
+    {
+        name: 'Dido  Thank You',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Dido++Thank+You.mp3'
+    },
+    {
+        name: 'EagleEye Cherry  Save Tonight',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/EagleEye+Cherry++Save+Tonight.mp3'
+    },
+    {
+        name: 'Echosmith  Cool Kids Official',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Echosmith++Cool+Kids+Official.mp3'
+    },
+    {
+        name: 'Ellie Goulding  Burn',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Ellie+Goulding++Burn.mp3'
+    },
+    {
+        name: 'Fall Out Boy  Centuries',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Fall+Out+Boy++Centuries.mp3'
+    },
+    {
+        name: 'Feel So Close Calvin Harris',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Feel+So+Close+Calvin+Harris.mp3'
+    },
+    {
+        name: 'Foster The People  Sit Next to Me',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Foster+The+People++Sit+Next+to+Me.mp3'
+    },
+    {
+        name: 'Green Day  Boulevard of Broken Dreams',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Green+Day++Boulevard+of+Broken+Dreams.mp3'
+    },
+    {
+        name: 'I Dont Want To Miss A Thing  Aerosmith',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/I+Dont+Want+To+Miss+A+Thing++Aerosmith.mp3'
+    },
+    {
+        name: 'Imagine Dragons  Birds',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Imagine+Dragons++Birds.mp3'
+    },
+    {
+        name: 'Imagine Dragons  Radioactive',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Imagine+Dragons++Radioactive.mp3'
+    },
+    {
+        name: 'In The End Linkin Park',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/In+The+End+Linkin+Park.mp3'
+    },
+    {
+        name: 'Jonas Blue  Fast Car ft Dakota',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Jonas+Blue++Fast+Car+ft+Dakota.mp3'
+    },
+    {
+        name: 'Kygo  Selena Gomez  It Aint Me',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Kygo++Selena+Gomez++It+Aint+Me.mp3'
+    },
+    {
+        name: 'Lana Del Rey  Young and Beautiful',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Lana+Del+Rey++Young+and+Beautiful.mp3'
+    },
+    {
+        name: 'My Chemical Romance  Welcome To The Black Parade',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/My+Chemical+Romance++Welcome+To+The+Black+Parade.mp3'
+    },
+    {
+        name: 'Nate Ruess Nothing Without Love',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Nate+Ruess+Nothing+Without+Love.mp3'
+    },
+    {
+        name: 'Of Monsters And Men  Little Talks',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Of+Monsters+And+Men++Little+Talks.mp3'
+    },
+    {
+        name: 'One More Light Linkin Park',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/One+More+Light+Linkin+Park.mp3'
+    },
+    {
+        name: 'One Republic All The Right Moves',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/One+Republic+All+The+Right+Moves.mp3'
+    },
+    {
+        name: 'One Republic Seeb  Rich Love',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/OneRepublic+Seeb++Rich+Love.mp3'
+    },
+    {
+        name: 'Panic At The Disco Emperors New Clothes',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Panic+At+The+Disco+Emperors+New+Clothes.mp3'
+    },
+    {
+        name: 'Paramore Brick By Boring Brick',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Paramore+Brick+By+Boring+Brick.mp3'
+    },
+    {
+        name: 'Paramore Misery Business',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Paramore+Misery+Business.mp3'
+    },
+    {
+        name: 'Phillip Phillips  Raging Fire',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Phillip+Phillips++Raging+Fire.mp3'
+    },
+    {
+        name: 'Rixton  Me and My Broken Heart',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Rixton++Me+and+My+Broken+Heart.mp3'
+    },
+    {
+        name: 'Semisonic  Closing Time Official',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Semisonic++Closing+Time+Official.mp3'
+    },
+    {
+        name: 'The Cranberries  Zombie',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/The+Cranberries++Zombie.mp3'
+    },
+    {
+        name: 'The Fault In Our Stars  Charli XCX  Boom Clap',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/The+Fault+In+Our+Stars++Charli+XCX++Boom+Clap.mp3'
+    },
+    {
+        name: 'The Script  Superheroes',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/The+Script++Superheroes.mp3'
+    },
+    {
+        name: 'Timbaland  Apologize ft OneRepublic',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Timbaland++Apologize+ft+OneRepublic.mp3'
+    },
+    {
+        name: 'WALK THE MOON  Shut Up and Dance',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/WALK+THE+MOON++Shut+Up+and+Dance.mp3'
+    },
+    {
+        name: 'Zedd  Stay The Night ft Hayley Williams',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Zedd++Stay+The+Night+ft+Hayley+Williams.mp3'
+    },
+    {
+        name: 'Zedd Griff  Inside Out Official Music Video',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Zedd+Griff++Inside+Out+Official+Music+Video.mp3'
     }
 ]
