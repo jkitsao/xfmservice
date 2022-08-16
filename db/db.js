@@ -338,5 +338,65 @@ exports.catalogue = [
     {
         name: 'Zedd Griff  Inside Out Official Music Video',
         src: 'https://d1o6crvybdgm1i.cloudfront.net/Zedd+Griff++Inside+Out+Official+Music+Video.mp3'
-    }
+    },
+    {
+        name: 'Papa Roach HELP',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Papa+Roach++HELP.mp3'
+    },
+    {
+        name: 'Noah Cyrus Labrinth Make Me Cry ft Labrinth',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Noah+Cyrus+Labrinth++Make+Me+Cry++ft+Labrinth.mp3'
+    },
+    {
+        name: 'Måneskin Beggin',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/M%C3%A5neskin++Beggin.mp3'
+    },
+    {
+        name: 'Imagine Dragons Whatever It Takes',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Imagine+Dragons++Whatever+It+Takes.mp3'
+    },
+    {
+        name: 'Imagine Dragons Bad Liar',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Imagine+Dragons++Bad+Liar.mp3'
+    },
+    {
+        name: 'Glass Animals Heat Waves',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Glass+Animals++Heat+Waves.mp3'
+    },
+    {
+        name: 'Ella Henderson Ghost',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Ella+Henderson++Ghost.mp3'
+    },
+    {
+        name: 'Bad Wolves Zombie',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Bad+Wolves++Zombie.mp3'
+    },
+    {
+        name: 'BURN IT DOWN Linkin Park',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/BURN+IT+DOWN++Linkin+Park.mp3.webm'
+    },
+    {
+        name: 'Avicii Levels',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Avicii+Levels.mp3'
+    },
+    {
+        name: 'Paramore Aint It Fun',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Paramore+Aint+It+Fun.mp3'
+    },
+    {
+        name: 'Portugal The Man Feel It Still',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Portugal+The+Man++Feel+It+Still.mp3'
+    },
+    {
+        name: 'Taylor Swift Wildest Dreams Taylors Version',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Taylor+Swift++Wildest+Dreams+Taylors+Version.mp3.webm'
+    },
+    {
+        name: 'Thirty Seconds To Mars Walk On Water',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Thirty+Seconds+To+Mars++Walk+On+Water.mp3'
+    },
+    {
+        name: 'Whataya Want From Me Adam Lambert',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Whataya+Want+From+Me++Adam+Lambert.mp3'
+    },
 ]

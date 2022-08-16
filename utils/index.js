@@ -20,7 +20,6 @@ exports.randomNoRepeats = (array) => {
     var index = Math.floor(Math.random() * copy.length);
     var item = copy[index];
     copy.splice(index, 1);
-    console.log({ item })
+    // console.log({ item })
     return item;
-    // };
 }
