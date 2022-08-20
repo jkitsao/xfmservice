@@ -10,7 +10,7 @@ const Utils = require('./utils');
 const DB = require('./db/db.js')
 const cors = require('cors');
 
-const { ffprobeSync } = require('@dropb/ffprobe');
+// const { ffprobeSync } = require('@dropb/ffprobe');
 var app = express()
 app.use(cors({
     origin: '*'
@@ -25,7 +25,7 @@ let data = DB.catalogue
 
 // const writables = [writable1, writable2, writable3];
 let sinks = new Map();
-const stream = new EventEmitter()
+// const stream = new EventEmitter()
 
 const broadcastToEverySink = (chunk) => {
     for (const [, sink] of sinks) {

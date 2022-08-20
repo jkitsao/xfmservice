@@ -1,10 +1,10 @@
 exports.catalogue = [
     {
-        name: 'Bishop Briggs Rive',
+        name: 'Bishop Briggs River',
         src: 'https://d1o6crvybdgm1i.cloudfront.net/Bishop+Briggs++River.mp3'
     },
     {
-        name: 'Bored To Death blink182.mp3',
+        name: 'Bored To Death blink182',
         src: 'https://d1o6crvybdgm1i.cloudfront.net/Bored+To+Death++blink182.mp3'
     },
     {
@@ -120,6 +120,10 @@ exports.catalogue = [
         src: 'https://d1o6crvybdgm1i.cloudfront.net/OneRepublic++Wherever+I+Go+Official+Music+Video.mp3'
     },
     {
+        name: 'XFM Comedy Nights',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/XFM+Comedy+Nights.mp3'
+    },
+    {
         name: 'Spirits The Strumbellas',
         src: 'https://d1o6crvybdgm1i.cloudfront.net/Spirits++The+Strumbellas+Lyrics.mp3'
     },
@@ -160,6 +164,10 @@ exports.catalogue = [
         src: 'https://d1o6crvybdgm1i.cloudfront.net/Alien+Ant+Farm++Smooth+Criminal.mp3'
     },
     {
+        name: 'XFM Comedy Nights',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/What+kind+of+parents+did+you+have+Comedian+Aries+Spears.mp3'
+    },
+    {
         name: 'American Authors  Best Day Of My Life',
         src: 'https://d1o6crvybdgm1i.cloudfront.net/American+Authors++Best+Day+Of+My+Life.mp3'
     },
@@ -170,6 +178,10 @@ exports.catalogue = [
     {
         name: 'Avril Lavigne  What The Hell Official',
         src: 'https://d1o6crvybdgm1i.cloudfront.net/Avril+Lavigne++What+The+Hell+Official.mp3'
+    },
+    {
+        name: 'XFM Comedy Nights',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/The+mustache+would+be+a+nice+lil+tickle+standup.mp3'
     },
     {
         name: 'Axwell Λ Ingrosso  More Than You Know',
@@ -204,12 +216,20 @@ exports.catalogue = [
         src: 'https://d1o6crvybdgm1i.cloudfront.net/Demi+Lovato++Heart+Attack.mp3'
     },
     {
+        name: 'XFM best of 2016',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/XFM+best+of+2016+part+1.mp3'
+    },
+    {
         name: 'Dido  Thank You',
         src: 'https://d1o6crvybdgm1i.cloudfront.net/Dido++Thank+You.mp3'
     },
     {
         name: 'EagleEye Cherry  Save Tonight',
         src: 'https://d1o6crvybdgm1i.cloudfront.net/EagleEye+Cherry++Save+Tonight.mp3'
+    },
+    {
+        name: 'XFM Comedy Nights',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Stand+Up+Shorts++Joe+Kilgallon+on+Gun+Control.mp3'
     },
     {
         name: 'Echosmith  Cool Kids Official',
@@ -234,6 +254,10 @@ exports.catalogue = [
     {
         name: 'Green Day  Boulevard of Broken Dreams',
         src: 'https://d1o6crvybdgm1i.cloudfront.net/Green+Day++Boulevard+of+Broken+Dreams.mp3'
+    },
+    {
+        name: 'XFM Comedy Nights',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Karlous+Miller++You+Ever+Get+So+High+You+Get+Smart++STONER+JOKES.mp3'
     },
     {
         name: 'I Dont Want To Miss A Thing  Aerosmith',
@@ -399,4 +423,120 @@ exports.catalogue = [
         name: 'Whataya Want From Me Adam Lambert',
         src: 'https://d1o6crvybdgm1i.cloudfront.net/Whataya+Want+From+Me++Adam+Lambert.mp3'
     },
+    {
+        name: 'Alex Sierra Little Do You Know',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Alex++Sierra++Little+Do+You+Know.mp3'
+    },
+    {
+        name: 'Arash Broken Angel',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Arash++Broken+Angel.mp3'
+    },
+    {
+        name: 'Astrid S Hurts So Good',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Astrid+S++Hurts+So+Good.mp3'
+    },
+    {
+        name: 'Band of Horses The Funeral',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Band+of+Horses++The+Funeral.mp3'
+    },
+    {
+        name: 'Berlin Take My Breath Away',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Berlin++Take+My+Breath+Away.mp3'
+    },
+    {
+        name: 'Cher Believe Official',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Cher++Believe+Official.mp3'
+    },
+    {
+        name: 'Christina Perri Human',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Christina+Perri++Human.mp3'
+    },
+    {
+        name: 'Cigarettes After Sex Apocalypse',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Cigarettes+After+Sex++Apocalypse.mp3'
+    },
+    {
+        name: 'Dean Lewis Be Alright',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Dean+Lewis++Be+Alright.mp3'
+    },
+    {
+        name: 'Ed Sheeran Galway Girl',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Ed+Sheeran++Galway+Girl.mp3'
+    },
+    {
+        name: 'Ellie Goulding How Long Will I Love You',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Ellie+Goulding++How+Long+Will+I+Love+You.mp3'
+    },
+    {
+        name: 'Ellie Goulding Still Falling For You',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Ellie+Goulding++Still+Falling+For+You.mp3'
+    },
+    {
+        name: 'Evanescence Bring Me To Life',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Evanescence++Bring+Me+To+Life.mp3'
+    },
+    {
+        name: 'Hailee Steinfeld Alesso Let Me Go ft Florida Georgia Line WATT',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Hailee+Steinfeld+Alesso++Let+Me+Go++ft+Florida+Georgia+Line+WATT.mp3'
+    },
+    {
+        name: 'Hozier Take Me To Church',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Hozier++Take+Me+To+Church.mp3'
+    },
+    {
+        name: 'Julia Michaels Issues',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Julia+Michaels++Issues.mp3'
+    },
+    {
+        name: 'Kelly Clarkson Stronger What Doesnt Kill You',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Kelly+Clarkson++Stronger+What+Doesnt+Kill+You.mp3'
+    },
+    {
+        name: 'Labrinth Beneath Your Beautiful ft Emeli Sandé',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Labrinth++Beneath+Your+Beautiful++ft+Emeli+Sand%C3%A9.mp3'
+    },
+    {
+        name: 'Labrinth Jealous',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Labrinth++Jealous.mp3'
+    },
+    {
+        name: 'Little Mix Secret Love Song ft Jason Derulo',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Little+Mix++Secret+Love+Song+ft+Jason+Derulo.mp3'
+    },
+    {
+        name: 'Pink What About Us',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Pnk++What+About+Us.mp3'
+    },
+    {
+        name: 'RagnBone Man Human',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/RagnBone+Man++Human.mp3'
+    },
+    {
+        name: 'TALK Run Away to Mars',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/TALK++Run+Away+to+Mars.mp3'
+    },
+    {
+        name: 'The Band Perry If I Die Young',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/The+Band+Perry++If+I+Die+Young.mp3'
+    },
+    {
+        name: 'The Chainsmokers Paris',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/The+Chainsmokers++Paris.mp3'
+    },
+    {
+        name: 'The Saturdays What About Us',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/The+Saturdays++What+About+Us.mp3'
+    },
+    {
+        name: 'Tom Odell Another Love',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Tom+Odell++Another+Love.mp3'
+    },
+    {
+        name: 'flora cash Youre Somebody Else',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/flora+cash++Youre+Somebody+Else.mp3'
+    },
+    {
+        name: 'gnash i hate u i love u ft olivia obrien',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/gnash++i+hate+u+i+love+u+ft+olivia+obrien.mp3'
+    }
 ]
