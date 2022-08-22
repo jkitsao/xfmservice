@@ -538,5 +538,173 @@ exports.catalogue = [
     {
         name: 'gnash i hate u i love u ft olivia obrien',
         src: 'https://d1o6crvybdgm1i.cloudfront.net/gnash++i+hate+u+i+love+u+ft+olivia+obrien.mp3'
-    }
+    },
+    {
+        name: 'A Great Big World Wont Stop Running',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/A+Great+Big+World++Wont+Stop+Running.mp3'
+    },
+    {
+        name: 'Becky G Shower',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Becky+G++Shower.webm'
+    },
+    {
+        name: 'Calvin Harris Summer',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Calvin+Harris++Summer.mp3'
+    },
+    {
+        name: 'Daya Hide Away',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Daya++Hide+Away.mp3'
+    },
+    {
+        name: 'Demi Lovato Give Your Heart a Break',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Demi+Lovato++Give+Your+Heart+a+Break.mp3'
+    },
+    {
+        name: 'Dermot Kennedy Outnumbered',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Dermot+Kennedy++Outnumbered.mp3'
+    },
+    {
+        name: 'Florida Georgia Line Cruise Remix ft Nelly',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Florida+Georgia+Line++Cruise+Remix+ft+Nelly.mp3.webm'
+    },
+    {
+        name: 'Gryffin Just For A Moment ft Iselin',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Gryffin++Just+For+A+Moment+ft+Iselin.mp3'
+    },
+    {
+        name: 'Gryffin with Elley Duhé Tie Me Down',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Gryffin+with+Elley+Duh%C3%A9++Tie+Me+Down.mp3'
+    },
+    {
+        name: 'Guns N Roses Knockin On Heavens Door',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Guns+N+Roses++Knockin+On+Heavens+Door.mp3'
+    },
+    {
+        name: 'Guns N Roses Sweet Child O Mine',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Guns+N+Roses++Sweet+Child+O+Mine.mp3'
+    },
+    {
+        name: 'Heavy Official Linkin Park feat Kiiara',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Heavy+Official+Linkin+Park+feat+Kiiara.mp3'
+    },
+    {
+        name: 'Hollow Coves The Woods',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Hollow+Coves++The+Woods.mp3'
+    },
+    {
+        name: 'Lady Gaga Million Reasons',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Lady+Gaga++Million+Reasons.mp3'
+    },
+    {
+        name: 'Lana Del Rey Blue Jeans',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Lana+Del+Rey++Blue+Jeans.mp3'
+    },
+    {
+        name: 'Lana Del Rey Summertime Sadness',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Lana+Del+Rey++Summertime+Sadness.mp3'
+    },
+    {
+        name: 'MKTO Classic',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/MKTO++Classic.mp3'
+    },
+    {
+        name: 'Maroon 5 Animals',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Maroon+5++Animals.mp3'
+    },
+    {
+        name: 'Martin Garrix Dua Lipa Scared To Be Lonely',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Martin+Garrix++Dua+Lipa++Scared+To+Be+Lonely.mp3'
+    },
+    {
+        name: 'Master of Puppets',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Master+of+Puppets.mp3'
+    },
+    {
+        name: 'Oasis Dont Look Back In Anger',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Oasis++Dont+Look+Back+In+Anger.mp3'
+    },
+    {
+        name: 'Olly Murs Up ft Demi Lovato',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Olly+Murs++Up++ft+Demi+Lovato.mp3'
+    },
+    {
+        name: 'Plain White Ts Hey There Delilah',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Plain+White+Ts++Hey+There+Delilah.mp3'
+    },
+    {
+        name: 'Rihanna Cheers Drink To That',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Rihanna++Cheers+Drink+To+That.mp3'
+    },
+    {
+        name: 'Rihanna Disturbia Leezardz Remix',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Rihanna++Disturbia+Leezardz+Remix.mp3'
+    },
+    {
+        name: 'Sia Elastic Heart feat Shia LaBeouf Maddie Ziegler',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Sia++Elastic+Heart+feat+Shia+LaBeouf++Maddie+Ziegler.mp3'
+    },
+    {
+        name: 'Sigala Paloma Faith Lullaby',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Sigala+Paloma+Faith++Lullaby.mp3'
+    },
+    {
+        name: 'Spin Doctors Two Princes',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Spin+Doctors++Two+Princes.mp3'
+    },
+    {
+        name: 'Tal Bachman Shes So High',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Tal+Bachman++Shes+So+High.mp3'
+    },
+    {
+        name: 'The Chainsmokers with Kygo Family',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/The+Chainsmokers+with+Kygo++Family.mp3'
+    },
+    {
+        name: 'Tom Walker Leave a Light On Live Session',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Tom+Walker++Leave+a+Light+On+Live+Session.mp3'
+    },
+    {
+        name: 'Tracy Chapman Baby Can I Hold You',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Tracy+Chapman++Baby+Can+I+Hold+You.mp3'
+    },
+    {
+        name: 'Tracy Chapman Fast Car',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Tracy+Chapman++Fast+Car.mp3'
+    },
+    {
+        name: 'Train Drive By',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Train++Drive+By.mp3'
+    },
+    {
+        name: 'Train Drops of Jupiter',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Train++Drops+of+Jupiter.mp3'
+    },
+    {
+        name: 'Train Hey Soul Sister',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Train++Hey+Soul+Sister.mp3'
+    },
+    {
+        name: 'Walking On Cars Dont Mind Me',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Walking+On+Cars++Dont+Mind+Me.mp3'
+    },
+    {
+        name: 'Zedd Elley Duhé Happy Now',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Zedd+Elley+Duh%C3%A9++Happy+Now.mp3'
+    },
+    {
+        name: 'The Police Every Breath You Take',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/he+Police+++Every+Breath+You+Take.mp3'
+    },
+    {
+        name: 'lovelytheband broken',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/lovelytheband++broken.mp3'
+    },
+    // {
+    //     name:'24kGoldn Mood ft iann dior',
+    //     src:'https://d1o6crvybdgm1i.cloudfront.net/'
+    // },
+    {
+        name: 'George Ezra Shotgun',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/George+Ezra++Shotgun.mp3'
+    },
 ]
