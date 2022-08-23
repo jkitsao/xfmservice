@@ -56,23 +56,24 @@ const removeResponseSink = (id) => {
     sinks.delete(id);
 }
 //logic to generate random song
-let shuffledSongs = _.shuffle(CatalogueSongs)
 const generateRandomSong = () => {
+    let shuffledSongs = _.shuffle(CatalogueSongs)
     var copy = shuffledSongs.slice(0);
-    return function () {
+    return (function () {
         if (copy.length < 1) { copy = array.slice(0); }
         var index = Math.floor(Math.random() * copy.length);
         var item = copy[index];
         copy.splice(index, 1);
         console.log({ item })
         return item;
-    };
+    })()
 }
 
 
 const playLoop = () => {
     // generate random song
     let currentSong = generateRandomSong()
+    // console.log({ currentSong })
     const bitRate = getBitRate(currentSong.src);
     // const songReadable = Fs.createReadStream(this._currentSong);
     https.get(currentSong.src, (stream) => {
@@ -118,8 +119,13 @@ app.get('/playing', function (req, res) {
     return res.json({ playing: false })
 });
 
-const port = process.env.PORT || 3001
-app.listen(port, () => {
+const PORT = process.env.PORT || 8080
+// app.listen(port, () => {
+//     startStreaming()
+//     console.log(`up and running on port ${port}`)
+// })
+app.listen(PORT, function (err) {
+    if (err) console.error(err)
     startStreaming()
-    console.log(`up and running on port ${port}`)
+    console.log("Server listening on Port", PORT);
 })
