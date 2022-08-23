@@ -3,6 +3,7 @@ const express = require('express')
 // import got from 'got';
 const https = require('https');
 // const Stream = require('stream')
+const _ = require('underscore');
 const EventEmitter = require('events');
 const { PassThrough } = require('stream');
 const Throttle = require('throttle');
@@ -21,7 +22,7 @@ app.use(cors({
 var nowPlaying = ''
 const songs = []
 const currentListeners = []
-let data = DB.catalogue
+let CatalogueSongs = DB.catalogue
 
 // const writables = [writable1, writable2, writable3];
 let sinks = new Map();
@@ -54,9 +55,24 @@ const makeResponseSink = () => {
 const removeResponseSink = (id) => {
     sinks.delete(id);
 }
+//logic to generate random song
+let shuffledSongs = _.shuffle(CatalogueSongs)
+const generateRandomSong = () => {
+    var copy = shuffledSongs.slice(0);
+    return function () {
+        if (copy.length < 1) { copy = array.slice(0); }
+        var index = Math.floor(Math.random() * copy.length);
+        var item = copy[index];
+        copy.splice(index, 1);
+        console.log({ item })
+        return item;
+    };
+}
+
+
 const playLoop = () => {
-    // console.log({ songs })
-    let currentSong = Utils.randomNoRepeats(data)
+    // generate random song
+    let currentSong = generateRandomSong()
     const bitRate = getBitRate(currentSong.src);
     // const songReadable = Fs.createReadStream(this._currentSong);
     https.get(currentSong.src, (stream) => {
@@ -102,10 +118,8 @@ app.get('/playing', function (req, res) {
     return res.json({ playing: false })
 });
 
-const port = process.env.PORT || 8080
+const port = process.env.PORT || 3001
 app.listen(port, () => {
     startStreaming()
-    // fillWithItems(Utils.readSongs());
-    // console.log({ db })
     console.log(`up and running on port ${port}`)
 })

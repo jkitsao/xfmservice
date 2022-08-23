@@ -699,12 +699,116 @@ exports.catalogue = [
         name: 'lovelytheband broken',
         src: 'https://d1o6crvybdgm1i.cloudfront.net/lovelytheband++broken.mp3'
     },
-    // {
-    //     name:'24kGoldn Mood ft iann dior',
-    //     src:'https://d1o6crvybdgm1i.cloudfront.net/'
-    // },
     {
         name: 'George Ezra Shotgun',
         src: 'https://d1o6crvybdgm1i.cloudfront.net/George+Ezra++Shotgun.mp3'
     },
+    {
+        name: 'Africa acoustic Toto cover Mike Masse and Jeff Hall',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Africa+acoustic+Toto+cover++Mike+Masse+and+Jeff+Hall.mp3'
+    },
+    {
+        name: 'BILLIE EILISH KHALID Lovely Cover by Lauren Babic Jordan Radvansky',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/BILLIE+EILISH++KHALID++Lovely+Cover+by+Lauren+Babic++Jordan+Radvansky.mp3'
+    },
+    {
+        name: 'Bobby McFerrin Dont Worry Be Happy',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Bobby+McFerrin++Dont+Worry+Be+Happy.mp3'
+    },
+    {
+        name: 'Bon Jovi Livin on a Prayer cover by SershenZaritskaya',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Bon+Jovi++Livin+on+a+Prayer+cover+by+SershenZaritskaya.mp3'
+    },
+    {
+        name: 'Boulevard Of Broken Dreams Green Day Cover by First to Eleven',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Boulevard+Of+Broken+Dreams++Green+Day+Cover+by+First+to+Eleven.mp3'
+    },
+    {
+        name: 'Charlie Puth One Call Away',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Charlie+Puth++One+Call+Away.webm'
+    },
+    {
+        name: 'Chris Martin Performs Coldplays Yellow on the Stern Show 2011',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Chris+Martin+Performs+Coldplays+Yellow+on+the+Stern+Show+2011.mp3'
+    },
+    {
+        name: 'Chris Martin Viva la Vida Acoustic on the Howard Stern Show 2016',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Chris+Martin+Viva+la+Vida+Acoustic+on+the+Howard+Stern+Show+2016.mp3'
+    },
+    {
+        name: 'Dave Fenley Stuck On You by Lionel Richie Cover',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Dave+Fenley++Stuck+On+You+by+Lionel+Richie+Cover.mp3'
+    },
+    {
+        name: 'Every Time We Touch Cascada POP PUNK COVER by Jonathan Young',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Every+Time+We+Touch+Cascada++POP+PUNK+COVER+by+Jonathan+Young.mp3'
+    },
+    {
+        name: 'Fall Out Boy Beat It MTV Version ft John Mayer',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Fall+Out+Boy++Beat+It+MTV+Version++ft+John+Mayer.mp3'
+    },
+    {
+        name: 'Halestorm Bad Romance Lady Gaga Cover',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Halestorm++Bad+Romance+Lady+Gaga+Cover.mp3'
+    },
+    {
+        name: 'I Knew You Were Trouble Taylor Swift Cover by First to Eleven',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/I+Knew+You+Were+Trouble++Taylor+Swift+Cover+by+First+to+Eleven.mp3'
+    },
+    {
+        name: 'INXS Need You Tonight',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/INXS++Need+You+Tonight.mp3'
+    },
+    {
+        name: 'Katy Perry Dark Horse Cover by Our Last Night',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Katy+Perry++Dark+Horse+Cover+by+Our+Last+Night.mp3.webm'
+    },
+    {
+        name: 'Loveless MIDDLE OF THE NIGHT cover',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Loveless++MIDDLE+OF+THE+NIGHT+cover.mp3'
+    },
+    {
+        name: 'Lukas Graham 7 Years Official',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Lukas+Graham++7+Years+Official.mp3'
+    },
+    {
+        name: 'My Heart Will Go On Titanic Celine Dion METAL cover by Jonathan Young',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/My+Heart+Will+Go+On++Titanic++Celine+Dion+METAL+cover+by+Jonathan+Young.mp3'
+    },
+    {
+        name: 'Måneskin Beggin Rock Cover by Our Last Night',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/M%C3%A5neskin++Beggin+Rock+Cover+by+Our+Last+Night.mp3'
+    },
+    {
+        name: 'Never Gonna Give You Up Rick Astley Jonathan Young PUNK GOES POPROCK COVER',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Never+Gonna+Give+You+Up+Rick+Astley++Jonathan+Young+PUNK+GOES+POPROCK+COVER.mp3'
+    },
+    {
+        name: 'Noel Gallagher Dont Look Back in Anger Acoustic on the Howard Stern Show in 1997',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Noel+Gallagher+Dont+Look+Back+in+Anger+Acoustic+on+the+Howard+Stern+Show+in+1997.mp3'
+    },
+    {
+        name: 'Prince Ali Aladdin Jonathan Young ROCKMETAL COVER',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Prince+Ali+Aladdin++Jonathan+Young+ROCKMETAL+COVER.mp3'
+    },
+    {
+        name: 'SEA SHANTY METAL Roll The Chariot Along feat Caleb Hyles annapantsu Peyton Parrish',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/SEA+SHANTY+METAL++Roll+The+Chariot+Along+feat+Caleb+Hyles+annapantsu+Peyton+Parrish.mp3'
+    },
+    {
+        name: 'Sea Shanty Metal Drunken Sailor feat Caleb Hyles annapantsu Colm McGuinness Music RichaadEB',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Sea+Shanty+Metal++Drunken+Sailor+feat+Caleb+Hyles+annapantsu+Colm+McGuinness+Music+RichaadEB.mp3'
+    },
+    {
+        name: 'Tove Lo Habits cover by Our Last Night',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Tove+Lo++Habits+cover+by+Our+Last+Night.mp3'
+    },
+    {
+        name: 'WELLERMAN Sea Shanty METAL COVER by Jonathan Young',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/WELLERMAN+Sea+Shanty+METAL+COVER+by+Jonathan+Young.mp3'
+    },
+    {
+        name: 'Adele When We Were Young',
+        src: 'https://d1o6crvybdgm1i.cloudfront.net/Adele++When+We+Were+Young.mp3'
+    }
 ]
