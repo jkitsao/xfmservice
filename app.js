@@ -9,6 +9,7 @@ const { PassThrough } = require('stream');
 const Throttle = require('throttle');
 const Utils = require('./utils');
 const DB = require('./db/db.js')
+const alt = require('./db/alternative.js')
 const cors = require('cors');
 
 // const { ffprobeSync } = require('@dropb/ffprobe');
@@ -23,6 +24,7 @@ var nowPlaying = ''
 const songs = []
 const currentListeners = []
 let CatalogueSongs = DB.catalogue
+let alt_catalogue = alt.catalogue
 
 // const writables = [writable1, writable2, writable3];
 let sinks = new Map();
@@ -57,7 +59,7 @@ const removeResponseSink = (id) => {
 }
 //logic to generate random song
 const generateRandomSong = () => {
-    let shuffledSongs = _.shuffle(CatalogueSongs)
+    let shuffledSongs = _.shuffle(CatalogueSongs.concat(alt_catalogue))
     var copy = shuffledSongs.slice(0);
     return (function () {
         if (copy.length < 1) { copy = array.slice(0); }
