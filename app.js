@@ -11,8 +11,7 @@ const Utils = require('./utils');
 const DB = require('./db/db.js')
 const alt = require('./db/alternative.js')
 const cors = require('cors');
-
-// const { ffprobeSync } = require('@dropb/ffprobe');
+const { ffprobeSync } = require('@dropb/ffprobe');
 var app = express()
 app.use(cors({
     origin: '*'
@@ -37,14 +36,16 @@ const broadcastToEverySink = (chunk) => {
 }
 
 const getBitRate = (song) => {
-    // try {
-    //     const bitRate = ffprobeSync(Path.join(process.cwd(), song)).format.bit_rate;
-    //     return parseInt(bitRate);
-    // }
-    // catch (err) {
-    //     return 320000; 
-    // }
-    return 128000;
+    try {
+        const bitRate = ffprobeSync(song).format.bit_rate;
+        console.log({ bitRate })
+        return parseInt(bitRate);
+    }
+    catch (err) {
+        console.log('bitrate error ')
+        return 128000;
+    }
+    // return ;
 }
 
 const makeResponseSink = () => {
