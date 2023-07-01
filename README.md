@@ -2,10 +2,13 @@
 
 This project demonstrates how to build an online radio using Node.js streams. It utilizes various modules and libraries to handle streaming, random song selection, and broadcasting to multiple listeners.
 
+By leveraging Node.js streams, the backend was able to handle multiple audio connections simultaneously, allowing for a scalable and responsive online radio platform. This meant that the project could accommodate a large number of concurrent listeners without compromising the quality or performance of the audio streams.
+Node.js streams provided efficient data transmission, scalability, and flexibility in audio format support, enabling a seamless and customizable online radio experience for users.
+
 ### Features
 
 - Random Song Selection: The application randomly selects songs from a catalog, which includes both regular and alternative songs, and plays them in a loop.
-- Streaming to Listeners: Listeners can connect to the server and stream the currently playing song in real-time.
+- Streaming to Listeners: Listeners can connect to the server and stream the currently playing song in real time.
 - Throttling: The streaming is throttled based on the bitrate of the song to ensure smooth playback and efficient data transfer.
 - Now Playing Information: The server provides an endpoint to retrieve the currently playing song, along with the number of current listeners.
 
